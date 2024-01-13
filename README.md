@@ -1,2 +1,2 @@
 # learning--python
-Practise Python Basic Programs
+Programs in the repository
